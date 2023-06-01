@@ -3,7 +3,7 @@
 Práce se zabývá vytvořením webových stránek ...
 
 Nezapomenu upravit odkazy a "aktivovat" GitHub Pages... 
-[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/<2022-l3-web-site-adamvrtek>/)
+[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/2022-l3-web-site-adamvrtek/)
 
 [Návrh webové stránky ve Figmě](https://www.figma.com/)
 
