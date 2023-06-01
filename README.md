@@ -16,5 +16,5 @@ Nezapomenu upravit odkazy a "aktivovat" GitHub Pages...
 - [ ] Implementována [LightGallery](https://github.com/sachinchoolur/lightGallery)
 - [x] Implementován [Swiper](https://swiperjs.com/) nebo [Glide](https://glidejs.com/)
 - [ ] ...desatero
-- [ ] Zcela funkční při vw 360px
-- [ ] Zcela funkční při vw 2560px
+- [x] Zcela funkční při vw 360px
+- [x] Zcela funkční při vw 2560px
