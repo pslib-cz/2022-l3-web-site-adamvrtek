@@ -12,7 +12,7 @@ Nezapomenu upravit odkazy a "aktivovat" GitHub Pages...
 - [ ] Vytvořit Figma projekt
 - [x] Aktivovat GitHub Pages
 - [ ] Upravit README.md (aktualizace odkazů na Figmu a Web)
-- [ ] Hamburger menu (s JS)
+- [x] Hamburger menu (s JS) => "tours" je rozklikávací
 - [ ] Implementována [LightGallery](https://github.com/sachinchoolur/lightGallery)
 - [x] Implementován [Swiper](https://swiperjs.com/) nebo [Glide](https://glidejs.com/)
 - [ ] ...desatero
