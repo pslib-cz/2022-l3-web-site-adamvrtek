@@ -5,7 +5,7 @@ Práce se zabývá vytvořením webových stránek ...
 Nezapomenu upravit odkazy a "aktivovat" GitHub Pages... 
 [Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/2022-l3-web-site-adamvrtek/)
 
-[Návrh webové stránky ve Figmě](https://www.figma.com/)
+[Návrh webové stránky ve Figmě](https://www.figma.com/file/EvVSPSDC6YWr00HmiTqIRN/projekt?type=design&node-id=0%3A1&t=NmgO4PJEqoLzvcou-1)
 
 ## ToDo
 - [x] Vytvořit repozitář projektu
